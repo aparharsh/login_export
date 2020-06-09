@@ -1,0 +1,11 @@
+table {
+    border-collapse: collapse;
+  }
+th, td{
+    border: 1px solid green;
+    padding: "15px";
+    text-align: center;
+}
+/* .dwnld_btn{
+    
+} */
